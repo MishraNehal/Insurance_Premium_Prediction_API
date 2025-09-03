@@ -150,4 +150,4 @@ docker run -p 8000:8000 insurance-api
 - 422 validation errors: ensure required fields are provided and valid.
 
 ## License
-Choose a license (e.g., MIT) and add a `LICENSE` file.
+MIT
