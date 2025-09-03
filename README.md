@@ -3,7 +3,7 @@
 Predict insurance premium categories from user demographics and lifestyle inputs. Built with FastAPI + scikit-learn, and a Streamlit UI for quick interaction.
 
 — FastAPI • scikit-learn • Pydantic • Streamlit —
-
+commond i will ru
 ## Overview
 This service exposes a REST endpoint that accepts user inputs (age, BMI components, income, city, occupation, smoker status), transforms them into model features, and returns a predicted premium category with confidence and per-class probabilities.
 
