@@ -149,23 +149,5 @@ docker run -p 8000:8000 insurance-api
 - `ModuleNotFoundError: sklearn`: activate venv and `pip install -r requirements.txt`.
 - 422 validation errors: ensure required fields are provided and valid.
 
-## Git & GitHub
-Initialize and first push (HTTPS):
-```powershell
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/<YOUR_USER>/<REPO_NAME>.git
-git branch -M main
-git push -u origin main
-```
-
-Clone and update:
-```powershell
-git clone https://github.com/<YOUR_USER>/<REPO_NAME>.git
-cd <REPO_NAME>
-git pull origin main
-```
-
 ## License
 Choose a license (e.g., MIT) and add a `LICENSE` file.
